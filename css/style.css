@@ -6,7 +6,7 @@ body {
 
 .bg-img {
     /* navigation bar background image setup */
-    background-image: url("/images/code-snip.png");
+    background-image: url("images/code-snip.png");
     background-repeat: repeat;
     background-size: 25em;
 }
@@ -102,7 +102,7 @@ h1 {
 } 
 
 body {
-    background-image: url("/images/bg-main.png");
+    background-image: url("images/bg-main.png");
     background-size: cover;
 }
 
